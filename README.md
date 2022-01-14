@@ -12,3 +12,12 @@ The dataset is organized into 3 folders (train, test, val) and contains subfolde
 ![1*J5wUMztRXZ_eHimMxULAnA](https://user-images.githubusercontent.com/76842663/149011212-5a2fb511-c934-4a71-90d5-7551564415a9.png)
 # Model used :
 Convolutional Neural Network
+<img width="1137" alt="Screenshot 2022-01-14 at 10 18 10" src="https://user-images.githubusercontent.com/76842663/149485570-44828ef1-9bd9-4126-8f85-1cc063156082.png">
+# Convolutional Neural Network(Result) :
+<img width="440" alt="Screenshot 2022-01-14 at 10 46 22" src="https://user-images.githubusercontent.com/76842663/149493428-6f04a902-ad78-4a20-9cf2-4b7631b75b1d.png">
+
+<img width="527" alt="Screenshot 2022-01-14 at 10 45 43" src="https://user-images.githubusercontent.com/76842663/149493452-1a5f2ab4-f0c1-4ad3-b552-2f28aba3cca3.png">
+
+# Classification report :
+
+<img width="1011" alt="Screenshot 2022-01-14 at 10 43 46" src="https://user-images.githubusercontent.com/76842663/149493499-988457c4-be1b-4835-b776-f0c1227c309d.png">
